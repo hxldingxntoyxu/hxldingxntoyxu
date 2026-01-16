@@ -6,7 +6,10 @@
 </p>
 
 <p align="center">
-  ![Hello colored text](./color-text.svg)
+  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="60" viewBox="0 0 400 60">
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="0" y="40" font-family="Arial, sans-serif" font-size="36" fill="#FF5733">Vice  ｡  Tyler  ͜͜𓈒 ‎ ‎ ‎  ‎ ̼̼♪<‎
+</svg>
 
 <p align="center">
   <a href="https://vqceee.straw.page">Strawpage ! ˚⟡˖ ࣪</a>&nbsp;&nbsp;•&nbsp;&nbsp;
