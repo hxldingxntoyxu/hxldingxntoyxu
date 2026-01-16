@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a ![Hello colored text](./color-text.svg)
+![Hello](./color-text.svg)
 
 <p align="center">
   <a href="https://vqceee.straw.page">Strawpage ! ˚⟡˖ ࣪</a>&nbsp;&nbsp;•&nbsp;&nbsp;
