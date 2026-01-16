@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a ![Colored badge](https://img.shields.io/badge/TEST TEST-%23FF5733?style=for-the-badge&logoColor=white)
+<a ![Hello colored text](./color-text.svg)
 
 <p align="center">
   <a href="https://vqceee.straw.page">Strawpage ! ˚⟡˖ ࣪</a>&nbsp;&nbsp;•&nbsp;&nbsp;
