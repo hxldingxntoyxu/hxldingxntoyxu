@@ -6,12 +6,6 @@
 </p>
 
 <p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="50">
-  <rect width="100%" height="100%" fill="transparent"/>
-  <text x="0" y="35" font-size="30" fill="#ff5555" font-family="Arial, sans-serif">Colored text here</hello>
-</svg>![Colored text](./colored-text.svg)
-
-<p align="center">
   <a href="https://vqceee.straw.page">Strawpage ! ˚⟡˖ ࣪</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://vqceeee.atabook.org/">ATA ! ⋆˙⟡</a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@Viceqizz">prns ! 𓂃۶ৎ </a> &nbsp;&nbsp;•&nbsp;&nbsp;
