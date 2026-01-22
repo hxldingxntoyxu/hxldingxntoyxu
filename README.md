@@ -11,3 +11,7 @@
   <a href="https://en.pronouns.page/@Viceqizz">prns ! 𓂃۶ৎ </a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://guns.lol/vqceee">Guns ! †  𓈒ֺּׅ  </a>
 ```
+<p align="center">
+<!-- start:spotify-readme -->
+Now playing: _(this will be replaced by the GitHub Action)_
+<!-- end:spotify-readme -->
