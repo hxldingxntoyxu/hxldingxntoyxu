@@ -12,6 +12,5 @@
 <a href="https://guns.lol/vqceee">Guns ! †  𓈒ֺּׅ  </a>
 ```
 <p align="center">
-<!-- start:spotify-readme -->
-Now playing: _(this will be replaced by the GitHub Action)_
-<!-- end:spotify-readme -->
+guys how the hell am I supposed to add what Im listening to on here,
+ts too confusing
