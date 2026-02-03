@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=vqceee-vqceee&color=5e5e5e&style=plastic&label=❔&abreviated=true">
 
 <p align="center">
-  <img src="https://www.pinterest.com/pin/57772807702985741/" width="300" />
+  <img src="https://64.media.tumblr.com/0645b8eb782cdd380f9f9e7ee3d94028/d213a920d5657943-37/s1280x1920/76b7fe03e2340807bcdbe422ed1097bfc349cb9d.gifv" width="300" />
 </p>
 
 <p align="center">
