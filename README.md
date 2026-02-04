@@ -12,5 +12,12 @@
 <a href="https://guns.lol/vqceee">Guns ! †  𓈒ֺּׅ  </a>
 ```
 <p align="center">
-guys how the hell am I supposed to add what Im listening to on here,
-ts too confusing
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nr2pxniaqkk3c7c4bs6wg2svqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p><p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nr2pxniaqkk3c7c4bs6wg2svqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
