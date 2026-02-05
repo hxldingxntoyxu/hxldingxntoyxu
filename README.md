@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=vqceee-vqceee&color=8f4141&style=plastic&label=🩸&abreviated=true">
 
 <p align="center">
-  <img src="Slipknot gif here (its not working tf)" width="500" />
+  <img src="https://64.media.tumblr.com/dd1ea249716494d2e5f7de5ad474db00/498d81f8453553eb-51/s540x810/6a2dfd8f443859b7ab425654101c2622948b5e7d.gifv" width="500" />
 </p>
 
 <p align="center">
