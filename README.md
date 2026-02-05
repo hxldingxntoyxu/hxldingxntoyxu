@@ -15,4 +15,4 @@
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nr2pxniaqkk3c7c4bs6wg2svqm&cover_image=true&theme=default&show_offline=false&background_color=bc30300&interchange=false&profanity=false"  
-      width="300"</a>
+      width="100"</a>
